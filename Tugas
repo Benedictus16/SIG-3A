@@ -1,0 +1,73 @@
+\section{Benedictus Simatupang (1154116)}
+\subsection{Pengertian}
+Sistem Informasi Geografis terdiri atas 3 kata. Yaitu Sistem, Informasi, dan Geografis. \hfill\break
+SISTEM\hfill\break
+Sistem adalah sekelompok komponen dan elemen yang digabungkan menjadi satu untuk mencapai tujuan tertentu.\hfill\break
+INFORMASI\hfill\break
+Informasi adalah data yang diolah menjadi bentuk yang sangat berguna untuk membuat keputusan.\hfill\break
+GEOGRAFI\hfill\break
+Geografi adalah ilmu yang mempelajari tentang lokasi serta persamaan dan perbedaan keruangan atas fenomena fisik dan manusia di atas permukaan bumi. Kata geografi sendiri berasal dari bahasa Yunani yaitu geo yang berarti Bumi dan graphein yang berarti tulisan atau menjelaskan.\hfill\break
+SISTEM INFORMASI\hfill\break
+Pada umumnya sistem informasi didefinisikan sebagai kumpulan komponen yang saling bekerja untuk mengumpulkan, memproses, menyimpan, dan menyebarkan informasi untuk membantu dalam pengambilan keputusan, koordinasi, pengendalian, analisis, dan visualisasi dalam organisasi.\hfill\break
+SISTEM INFORMASI GEOGRAFIS\hfill\break
+Pengertian dari Sistem Informasi Geografis (GIS) Sistem Informasi Geografi ialah sistem yang terdiri dari perangkat keras, perangkat lunak, data, manusia (brainware), organisasi dan lembaga yang digunakan untuk mengumpulkan, menyimpan, menganalisis, dan menyebarkan informasi-informasi mengenai daerah-daerah di permukaan bumi.\hfill\break
+
+\subsection{Sejarah}
+Sejarah GIS diawali pada  tahun 1960-an yang dimana terjadi perkembangan yang semakin pesat dalam ilmu komputer, sehingga dapat digunakan pada bidang lain di luar militer, sehingga para ahli meteorologi, geologi, dan geofisika mulai menggunakannya dalam melakukan pembuatan peta.\hfill\break
+Pada tahun 1963 tepatnya di Kanada terbentuklah CGIS (Canadian Geographic Information System), dan selanjutnya menjadi SIG pertama di dunia. \hfill\break
+Seiring dengan perkembangan teknologi, GIS juga mengalami perubahan ke arah yang lebih baik. \hfill\break
+Berikut ini adalah sejarah perkembangan GIS :\hfill\break
+\begin{itemize}
+	\item Pada awalnya, peta hanya memiliki satu atau dua informasi saja didalamnya, sehingga jika seorang analis ingin mendapatkan informasi tambahan, dia harus melakukan overlay.\hfill\break
+	\item Salah satu proses overlay pertama yang juga dianggap sebagai penggunaan analisa spasial pertama secara sukses adalah oleh John Snow di London pada tahun 1854.\hfill\break
+	\item Dia melakukan pemetaan terhadap lokasi orang-orang yang mengidap penyakit cholera dan menghubungkannya dengan peta penyediaan air minum London.Pada awal abad ke-20, penggunaan teknik photozincography mulai meluas.\hfill\break
+	\item Teknik ini memungkinkan peta terdiri dari beberapa layer yang nantinnya dapat diubah secara mandiri dari layer lainnya.  SHal ini berguna untuk melakukan overlay dan analisa peta sesuai dengan layer yang dibutuhkan.Pada teknik ini, layer-layer yang ada dibuat dari film plastik atau lapisan kertas kalkir sehingga dapat digabungkan menjadi satu peta besar.\hfill\break
+	\item GNamun, teknik ini belum dapat dianggap sebagai SIG karena tidak terdapat database yang menghubungkan peta-peta tersebut.Pada tahun 1960, Canada mengembangkan sistem SIG pertamanya yang disebut CGIS atau Canada Geographic Information System. \hfill\break
+	\item Sistem ini digunakan untuk menyimpan, mengolah, dan menganalisa informasi yang dimiliki oleh badan pertanahan Canada.
+\end{itemize}
+\subsection{Data Spasial}
+Uadalah data yang memiliki informasi lokasi pada data tersebut. Informasi lokasi ini umumnya berbentuk sistem koordinat baik itu koordinat geografis ataupun koordinat proyeksi.
+Data spasial umumnya digunakan untuk menunjukkan lokasi dari suatu obyek/kenampakan pada dunia nyata. Terdapat dua jenis data spasial yaitu vektor dan raster. Kedua jenis data ini memiliki perbedaan sifat dan kegunaannya. Oleh karena itu, penggunaannya sangat tergantung dengan kondisi dan hasil yang ingin dicapai.\hfill\break
+\begin{figure}[H]
+	\centering
+	\caption{Data Spasial}
+\subsection{Data Vektor}
+adalah data yang direpresentasikan dengan garis, titik, atau polygon. Data vektor dihasilkan dari digitasi data raster ataupun penggambaran langsung obyek dunia nyata pada peta. Oleh karena itu, data vektor lebih sulit dibuat dibandingkan dengan data raster.\hfill\break
+\begin{figure}[H]
+	\centering
+	\caption{Data Vektor}
+\end{figure}
+\subsection{Data Raster}
+adalah data yang direpresentasikan dengan piksel dalam sebuah grafik. Data raster dihasilkan langsung oleh foto udara maupun foto satelit. Oleh karena itu, secara umum, data raster lebih mudah dibuat dibandingkan dengan data vektor..\hfill\break
+\begin{figure}[H]
+	\centering
+	\caption{Data Vektor}
+\end{figure}
+\subsection{Data Geospasial}
+Data Geospasial adalah data tentang aspek fisik dan administratif dari sebuah objek geografis.\hfill\break
+Aspek fisik yang dimaksud mencakup bentuk anthropogenic dan bentuk alam baik yang terdapat di permukaan maupun di bawah permukaan bumi. Bentuk anthropogenic mengandung di dalamnya fenomena budaya seperti jalan, rel kereta api, bangunan, jembatan, dan sebagainya. Bentuk alam tentu saja adalah sungai, danau, pantai, daratan tinggi, dan sebagainya. \hfill\break
+\begin{figure}[H]
+	\includegraphics[width=4cm]{figures/1174096/1/consult_3.jpg}
+	\centering
+	\caption{aspek fisik}
+\end{figure}
+Sedangkan aspek administratif adalah pembagian atau pembatasan sosio-kultural yang dibuat oleh suatu organisasi atau badan untuk keperluan pengaturan dan pemakaian sumberdaya alam. Hal lain yang digolongkan kedalam aspek administratif ini adalah batas negara, zona, pembagian wilayah administrasi, kode pos, batas kepemilikan tanah, dan sebagainya.\hfill\break
+\begin{figure}[H]
+	\includegraphics[width=4cm]{figures/1174096/1/PETA.jpg}
+	\centering
+	\caption{aspek administratif}
+\end{figure}
+Terdapat dua metode yang pada umumnya digunakan untuk menampilkan fitur geografis ke dalam GIS atau Sistem Informasi Geografis.\hfill\break 
+\begin{itemize}
+	\item Pertama, dengan struktur data vektor (vector data structure) yang terdiri dari sebuah gambaran titik geografis, baik yang berupa tanda titik, garis, maupun poligon. Struktur data vector biasa digunakan untuk menampilkan secara terpisah fitur geografis seperti batas administratif, jalan, bangunan, dan sungai. Sebuah objek grafis biasanya dikaitkan dengan informasi yang mengandung penjelasan tentang atribut objek itu, dan informasi ini bisa saja disimpan di dalam berkas spreadsheets atau pangkalan data terpisah.\hfill\break
+	\item Kedua, dengan struktur data raster (raster data structure), terdiri dari serangkaian sel atau pixels yang biasa dipakai untuk menggambarkan data gambar sebagai data yang berkesinambungan. Dalam struktur data yang demikian, ada unsur resolusi sebagai ukuran dari dimensi fitur geografis yang terwakili dalam bentuk pixel. Biasanya data raster ini dipakai untuk citra satelit, ortografi digital, model elevasi digital (digital elevation models, DEM), peta digital, dan sebagainya.
+\end{itemize}
+\subsection{Link}
+\href{https://www.youtube.com/watch?v=yEOyuBWjpq0}{Untuk selengkapnya lihat disini}
+
+\subsection{Plagiarism}
+\begin{figure}[H]
+	\includegraphics[width=4cm]{figures/1154116/1/1154116.png}
+	\centering
+	\caption{cek plagiarisme}
+\end{figure}
